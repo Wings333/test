@@ -1,0 +1,14 @@
+div p { font-weight: bold; }
+p.myStyle{color:red;}
+h1 ~ p { color:red; }
+p + p { color:blue; }
+
+.box{
+margin-top:20px;
+margin-right:10%;
+margin-bottom:20px;
+margin-left:10%;
+
+border: black 10px solid;
+padding: 10px 20% 10px 20%;
+}
